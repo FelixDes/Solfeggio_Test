@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SAMSольфеджио</string>
+    <string name="res1">Тест с выбором варианта ответа</string>
+    <string name="res2">Звуковой тест</string>
+    <string name="res3">Тест с вводом на нотном стане</string>
+    <string name="name">Music Application</string>
+    <string name="sams">Программа разработанна в рамках школы IT Samsung</string>
+    <string name="returner">ОТВЕТИТЬ</string>
+    <string name="Question_Mus">Выберите правильное описание услышенного аккорда:</string>
+    <string name="play">|Play|</string>
+    <string name="pause">|Pause|</string>
+    <string name="stop">|Stop|</string>
+    <string name="note">Нота</string>
+    <string name="del">Очистиить всё</string>
+    <string name="check">Проверить</string>
+    <string name="sharp">Диез</string>
+    <string name="flat">Бемоль</string>
+    <string name="corr_ans_text">Колличество правильных ответов:</string>
+    <string name="exit">Вернуться в главное меню</string>
+    <string name="end_mes">Тест завершён!</string>
+    <string name="version">stable beta 0.2.0</string>
+</resources>
